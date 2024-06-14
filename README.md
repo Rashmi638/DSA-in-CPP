@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Rashmi B
-- 👀 I’m interested in programming and coding is truly refreshing anf fulfilling,providing me with constant challenges and excitement
+- 👀 I’m interested in programming and coding is truly refreshing and fulfilling,providing me with constant challenges and excitement
 - 🌱 I’m currently learning DSA in c and c++ and web development
-- 📫 Reach out me at [rashmi634983@gmail.com](rashmi634983@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach out me at [](rashmi634983@gmail.com)
+
 
 <!---
 Rashmi638/Rashmi638 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
